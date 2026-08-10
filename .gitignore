@@ -1,0 +1,7 @@
+# Release zip git me NAHI jaati — wo GitHub Release ke asset ke roop me
+# upload hoti hai (git repo binary ke liye jagah nahi hai, aur har release par
+# repo ka size badhta jaata).
+#
+# Is repo me sirf `latest.json` versioned hai — wahi ek FIXED URL par rehni
+# chahiye, kyunki customer ki app usi URL ko poll karti hai.
+*.zip
