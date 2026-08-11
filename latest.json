@@ -1,7 +1,7 @@
 {
-  "version": "2.0.4",
-  "url": "https://github.com/angadtradeterminal-sudo/angad-trade-terminal-releases/releases/download/v2.0.4/AngadTradeTerminal-2.0.4.zip",
-  "sha256": "3105acb51e0d33dd7752c1b2d580dce0adb2bdbe37383be68f0c4b91be2e078f",
-  "notes": "",
-  "sig": "1IBx6b+sXnXWHBs382H9TXxFDPPgV6/imNxB5FHUI/Fms10U5oWGetp+4b7ySw3LurOEiXpoH4REU7ucFOg5BA=="
+  "version": "2.0.5",
+  "url": "https://github.com/angadtradeterminal-sudo/angad-trade-terminal-releases/releases/download/v2.0.5/AngadTradeTerminal-2.0.5.zip",
+  "sha256": "adc9415ffac7bbc69bee8d8a35eddcb0676299b298f71e6bfb788a5959cf2bc4",
+  "notes": "Public edition ka setup + license ab edition se bandhi",
+  "sig": "gyJ1yG4scV0wOCTsivBEhrTV+/9QjYQW/Idcp6sCgFbU7pucdL+ytierMGH9wu+xDVsDthLTqxhcH4Td2pL0AQ=="
 }
