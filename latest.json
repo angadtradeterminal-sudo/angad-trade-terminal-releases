@@ -1,7 +1,7 @@
 {
-  "version": "2.0.5",
-  "url": "https://github.com/angadtradeterminal-sudo/angad-trade-terminal-releases/releases/download/v2.0.5/AngadTradeTerminal-2.0.5.zip",
-  "sha256": "adc9415ffac7bbc69bee8d8a35eddcb0676299b298f71e6bfb788a5959cf2bc4",
-  "notes": "Public edition ka setup + license ab edition se bandhi",
-  "sig": "gyJ1yG4scV0wOCTsivBEhrTV+/9QjYQW/Idcp6sCgFbU7pucdL+ytierMGH9wu+xDVsDthLTqxhcH4Td2pL0AQ=="
+  "version": "2.0.6",
+  "url": "https://github.com/angadtradeterminal-sudo/angad-trade-terminal-releases/releases/download/v2.0.6/AngadTradeTerminal-2.0.6.zip",
+  "sha256": "54bfca5dfd7bdbd1ff3bfddcde0920137c9b397c5716e38a0f9b53ef55fe59c0",
+  "notes": "AT Direction — feature ka naam badla",
+  "sig": "1cD2Mo8MBGAXceTid2Hx3aSOLhl0BezhESe4kLsYkDoNhDrz7j6rUqju13Hq/w4qDDTCWypoj1n+0abBtlm8CQ=="
 }
