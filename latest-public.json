@@ -1,7 +1,7 @@
 {
-  "version": "2.0.6",
-  "url": "https://github.com/angadtradeterminal-sudo/angad-trade-terminal-releases/releases/download/v2.0.6/AngadTradeTerminal-2.0.6-public-app.zip",
-  "sha256": "f2e683de3ec71d7bd638a75bdda904d0f4eba60cfa543bbdc4ec8a7e8871bdb1",
-  "notes": "AT Direction — feature ka naam badla",
-  "sig": "jBqilfL6t+P8/JR6ZVZ3E2DNVps2fpySzLON9WnSYVECzR8COWY1mD8hdFl8lMpcvRMWYup1W6hGew2tsg6UCQ=="
+  "version": "2.0.7",
+  "url": "https://github.com/angadtradeterminal-sudo/angad-trade-terminal-releases/releases/download/v2.0.7/AngadTradeTerminal-2.0.7-public-app.zip",
+  "sha256": "09541be7aa254cbeb3d8be175ec2e5953169fa6e624960c8214845898a2ee206",
+  "notes": "English-only interface; AT Levels rework (heat map, per-strike range); Contract Note in Positions; phantom-position, margin and Journal fixes",
+  "sig": "OAs1KFRoTWt4Bjz+1acqlXQx+D1X+8k4FNHEmcjV3izz73kZ51WFlKHqwHfJjn+8Zi6sy2/1iqzdNWdHJeRIAA=="
 }
