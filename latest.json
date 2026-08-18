@@ -1,7 +1,7 @@
 {
-  "version": "2.0.7",
-  "url": "https://github.com/angadtradeterminal-sudo/angad-trade-terminal-releases/releases/download/v2.0.7/AngadTradeTerminal-2.0.7.zip",
-  "sha256": "687a2dd590e7e99e5f1ea5af20082182646d3926117aaf082d16e8e07cd67bb1",
-  "notes": "English-only interface; AT Levels rework (heat map, per-strike range); Contract Note in Positions; phantom-position, margin and Journal fixes",
-  "sig": "bcopsS5TZ5muXj6NT7A6XWacpnFDWXLCCeJJ8hmgrY7MaCI/RVk849xnY+OjLwUug1kVIaGGZMKUBHQtd2aNBw=="
+  "version": "2.0.8",
+  "url": "https://github.com/angadtradeterminal-sudo/angad-trade-terminal-releases/releases/download/v2.0.8/AngadTradeTerminal-2.0.8.zip",
+  "sha256": "85497782fcc6a851cdcf09d1f98df9a594813fc6f8f4423bfa5c4fa92a239757",
+  "notes": "",
+  "sig": "ih4B1/RS2LFSkazJ6vF91izUT8b/wFDw5LIal64ABJ9SVggc3yqGjot/Ds37NzD7L2ftKOFq896UzuvaQTFeDA=="
 }
